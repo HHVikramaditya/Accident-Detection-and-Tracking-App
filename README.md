@@ -1,3 +1,3 @@
 # Accident-Detection-and-Tracking-App
-Android App to track location and send sms to emergency contacts on accident detection.
+Android App to detect accidents using accelerometer and sends SMS to emergency contacts.
 This will ensure safety of rider and immediate medical relief.
